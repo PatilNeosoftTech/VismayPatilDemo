@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">VismayPatilDemo</string>
+
+    <!-- Portfolio Screen -->
+    <string name="portfolio_title">Portfolio</string>
+    <string name="portfolio_profit_loss">Profit &amp; Loss*</string>
+    <string name="portfolio_today_profit_loss">Today\'s P&amp;L</string>
+    <string name="portfolio_total_profit_loss">Total P&amp;L</string>
+    <string name="portfolio_current_value">Current value*</string>
+    <string name="portfolio_total_investment">Total investment*</string>
+    <string name="portfolio_holdings">HOLDINGS</string>
+
+    <!-- Holding Item -->
+    <string name="holding_quantity_format">QTY: %d</string>
+    <string name="holding_ltp_format">LTP: %s</string>
+    <string name="holding_current_value">Current Value</string>
+    <string name="holding_investment">Investment</string>
+    <string name="holding_today_pnl">Today\'s P&amp;L</string>
+
+    <!-- Common -->
+    <string name="all_collapse">Collapse</string>
+    <string name="all_expand">Expand</string>
+    <string name="loading_portfolio">Loading portfolio...</string>
+    <string name="loading_fetching_investments">Fetching your investments...</string>
+    <string name="retry">Retry</string>
+    <string name="error">Error</string>
+
+    <!-- Error Messages -->
+    <string name="error_failed_to_load_portfolio">Failed to load portfolio</string>
+    <string name="error_failed_to_refresh">Failed to refresh</string>
+    <string name="error_no_internet_connection">No internet connection. Please check your connection and try again.</string>
+    <string name="error_no_internet_connection_short">No internet connection</string>
+    <string name="error_no_data_available">No data available</string>
+    <string name="error_server_issues">Unable to load your portfolio. The server seems to be experiencing issues. Please try again later.</string>
+</resources>
